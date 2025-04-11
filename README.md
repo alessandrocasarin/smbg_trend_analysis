@@ -25,6 +25,7 @@ The main steps of the analysis are:
 ## Files
 - `main_script.m`: Main script performing the full analysis.
 - `kernelExp.m`: Helper function to compute exponential kernel weights.
+- `smbg.mat`: Contains SMBG data from a diabetic patient. The dataset includes three equally spaced daily glucose measurements over a one-month period, with no missing samples.
 
 ## Requirements
 - MATLAB
